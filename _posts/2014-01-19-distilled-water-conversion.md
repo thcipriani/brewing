@@ -77,35 +77,39 @@ I then checked for conversion every 30 minutes and made observations about what 
 
 1. **15 Minutes**:
 
+    ![Iodine test 15mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/152054_distilled_water_mash_15min_iodine.jpg)
+
     * Mash temp: 142&deg;F
     * Iodine test: positive for starch
-    ![Iodine test 15mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/152054_distilled_water_mash_15min_iodine.jpg)
     * Observations: Smells starchy, a little visible foam indicating CO2 release
 
 2. **30 Minutes**:
 
+    ![Iodine test 30mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/153427_distilled_water_mash_30min_iodine.jpg)
+
     * Added 60mL boiling water as temp had dropped below 140&deg;F
     * Mash temp: 143&deg;F
     * Iodine test: positive for starch
-    ![Iodine test 30mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/153427_distilled_water_mash_30min_iodine.jpg)
     * Observations: Thermos thing sucks
 
 3. **35 Minutes**: Added another 75mL boiling water. Temp now 146&deg;F, FML.
 
 4. **45 Minutes**:
 
-    * Mash Temp: 143&deg;F (Really!? Really mash temp? Fucking, Really!?)
-    * Iodine test: positive for starch<br>
     ![Iodine test 45mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/155019_distilled_water_mash_45min_iodine.jpg)
+
+    * Mash Temp: 143&deg;F (Really!? Really mash temp? Fucking, Really!?)
+    * Iodine test: positive for starch
     * Observations: I hate this Thermos thing with the power of 1000 suns, I&#8217;m gettting better at iodine tests :)
 
 5. **50 Minutes**: Added 100mL boiling water (YOLO!) to raise mash temp to 150&deg;F, YAY!
 
 6. **60 Minutes**:
 
-    * Mash temp: 146&deg;F
-    * Iodine test: negative for starch<br>
     ![Iodine test 45mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/160503_distilled_water_mash_60min_iodine.jpg)
+
+    * Mash temp: 146&deg;F
+    * Iodine test: negative for starch
     * Observations: Smells and tastes sweet
 
 Review/Improvements/Take-Aways
