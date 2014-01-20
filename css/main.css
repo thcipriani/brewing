@@ -417,7 +417,8 @@ body {
 }
 
 img {
-    max-width: 100%;
+  max-width: 125%;
+  margin: -12.5%;
 }
 
 h1,
@@ -460,4 +461,10 @@ main {
 
 article footer {
   color: #b3b3b1;
+}
+
+@media screen and (max-width: 875px) {
+  img {
+    max-width: 100%;
+  }
 }
