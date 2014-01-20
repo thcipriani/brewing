@@ -47,11 +47,16 @@ Idea:
 * If a mash passes an iodine test, it&#8217;s starch has been converted.
 * If a mash made with distilled water passes an ion test, then calcium from water is not _strictly_ necessary for mashing.
 
+![Materials](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/142749_distilled_water_mash_materials.jpg)
+
 Materials:
 ---
 
-* 300g Distilled Water (plus bunches more. See [Methods](#methods)
+* 300mL Distilled Water (plus bunches more. See [Methods](#methods)
+![water 300g](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/141908_distilled_water_mash_300ml_water.jpg)
+
 * 150g Crisp Marris Otter Malt (only base malt on-hand)
+![grain 150g](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/143122_distilled_water_mash_150g_grain.jpg)
 * Big MF&#8217;n Thermos thing for use as a mash tun
 * iodine
 * Thermopen and lab thermometer
@@ -65,12 +70,16 @@ that showed that the water should be heated to 165&deg;F to achieve a mash temp 
 Then I thought _I&#8217;m smarter than you Beer Alchemy_ and went with a strike temp of 160&deg;F
 which, ultimately, resulted in a mash temp of 145&deg;F&#8230;you win this round Beer Alchemy.
 
+![Water temp](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/145458_distilled_water_mash_mash_water_temp.jpg)
+![Mash temp](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/145719_distilled_water_mash_dough_in.jpg)
+
 I then checked for conversion every 30 minutes and made observations about what I saw:
 
 1. 15 Minutes:
 
   * Mash temp: 142&deg;F
   * Iodine test: positive for starch
+  ![Iodine test 15mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/152054_distilled_water_mash_15min_iodine.jpg)
   * Observations: Smells starchy, a little visible foam indicating CO2 release
 
 2. 30 Minutes:
@@ -78,6 +87,7 @@ I then checked for conversion every 30 minutes and made observations about what 
   * Added 60mL boiling water as temp had dropped below 140&deg;F
   * Mash temp: 143&deg;F
   * Iodine test: positive for starch
+  ![Iodine test 30mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/153427_distilled_water_mash_30min_iodine.jpg)
   * Observations: Thermos thing sucks
 
 3. 35 Minutes: Added another 75mL boiling water. Temp now 146&deg;F, FML.
@@ -86,7 +96,8 @@ I then checked for conversion every 30 minutes and made observations about what 
 
   * Mash Temp: 143&deg;F (Really!? Really mash temp? Fucking, Really!?)
   * Iodine test: positive for starch
-  * Observations: I hate this Thermos thing with the power of 1000 suns
+  ![Iodine test 45mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/155019_distilled_water_mash_45min_iodine.jpg)
+  * Observations: I hate this Thermos thing with the power of 1000 suns, I&#8217;m gettting better at iodine tests :)
 
 5. 50 Minutes: Added 100mL boiling water (YOLO!) to raise mash temp to 150&deg;F, YAY!
 
@@ -94,6 +105,7 @@ I then checked for conversion every 30 minutes and made observations about what 
 
   * Mash temp: 146&deg;F
   * Iodine test: negative for starch
+  ![Iodine test 45mins](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/160503_distilled_water_mash_60min_iodine.jpg)
   * Observations: Smells and tastes sweet
 
 Review/Improvements/Take-Aways
@@ -107,6 +119,8 @@ Review/Improvements/Take-Aways
 4. Water-derived calcium in likely not strictly necessary for the conversion 
   of starch in the mash.
 5. Actual experiment is in order&#8230;
+
+![Starting gravity](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/161034_distilled_water_mash_sg.jpg)
 
 
 * * *
