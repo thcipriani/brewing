@@ -45,7 +45,7 @@ Idea:
 ---
 
 * If a mash passes an iodine test, it&#8217;s starch has been converted.
-* If a mash made with distilled water passes an ion test, then calcium from water is not _strictly_ necessary for mashing.
+* If a mash made with distilled water passes an iodine test, then calcium from water is not _strictly_ necessary for mashing.
 
 ![Materials](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/142749_distilled_water_mash_materials.jpg)
 
