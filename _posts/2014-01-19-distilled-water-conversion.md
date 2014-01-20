@@ -68,11 +68,13 @@ which, ultimately, resulted in a mash temp of 145&deg;F&#8230;you win this round
 I then checked for conversion every 30 minutes and made observations about what I saw:
 
 1. 15 Minutes:
+
   * Mash temp: 142&deg;F
   * Iodine test: positive for starch
   * Observations: Smells starchy, a little visible foam indicating CO2 release
 
 2. 30 Minutes:
+
   * Added 60mL boiling water as temp had dropped below 140&deg;F
   * Mash temp: 143&deg;F
   * Iodine test: positive for starch
@@ -81,6 +83,7 @@ I then checked for conversion every 30 minutes and made observations about what 
 3. 35 Minutes: Added another 75mL boiling water. Temp now 146&deg;F, FML.
 
 4. 45 Minutes:
+
   * Mash Temp: 143&deg;F (Really!? Really mash temp? Fucking, Really!?)
   * Iodine test: positive for starch
   * Observations: I hate this Thermos thing with the power of 1000 suns
@@ -88,6 +91,7 @@ I then checked for conversion every 30 minutes and made observations about what 
 5. 50 Minutes: Added 100mL boiling water (YOLO!) to raise mash temp to 150&deg;F, YAY!
 
 6. 60 Minutes:
+
   * Mash temp: 146&deg;F
   * Iodine test: negative for starch
   * Observations: Smells and tastes sweet
