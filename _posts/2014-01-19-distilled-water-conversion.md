@@ -117,7 +117,7 @@ Review/Improvements/Take-Aways
 
 1. I am not smarter than Beer Alchemy
 2. While the mash did take a long time to convert, the mash was only solidly 
-  in the correct temperature range for alpha-amalayse activity for 
+  in the correct temperature range for alpha-amylase activity for 
   15 minutes during which time the mash fully converted the remaining starch.
 3. The only solid iodine test, IMO, was the last. The photos tell that story.
 4. Water-derived calcium is likely not strictly necessary for the conversion 
