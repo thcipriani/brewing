@@ -418,7 +418,7 @@ body {
 
 img {
   max-width: 125%;
-  margin: -12.5%;
+  margin-left: -12.5%;
 }
 
 h1,
@@ -466,5 +466,6 @@ article footer {
 @media screen and (max-width: 875px) {
   img {
     max-width: 100%;
+    margin-left: 0;
   }
 }
