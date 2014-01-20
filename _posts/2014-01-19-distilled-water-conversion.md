@@ -9,13 +9,17 @@ Bru'n Water's Water Knowledge Page<sup>[1](#brunwater)</sup>, or even in
 _the_ book on brewing water <sup>[3](#water)</sup>.
 
 Once you do lookup the fact that you need 50ppm calcium, you may wonder: who proved this? Who made this fact a _fact_?
-I haven't been able to find that answer. Not that I've really looked all that hard for the answer, but shouldn't it be
+I haven't been able to find that answer. Not that I've _really looked_ all that hard for the answer, but shouldn't it be
 _just as easy_ to find as the fact itself?
 
-"Oh, OK, W.F. McWhozitz proved the 50ppm calcium thing in 1804 after his expedition to Tanzania...that seems right"
+> "Oh, OK, W.F. McWhozitz proved the 50ppm calcium thing in 1804 after his expedition to Tanzania...that seems right."
 
-I don't understand how you can get away not citing sources for stuff like this.
-At this point it's a logical fallacy to even say that the fact is, in fact, factual (see: [argument from authority](http://en.wikipedia.org/wiki/Argument_from_authority))
+I don't understand how you can get away not citing sources for stuff like this?
+
+> "I mean, if I went 'round saying I was an emperor, just because some moistened bint had lobbed a scimitar at me, they'd put me away!"<br>
+> &ndash; Dennis
+
+At this point it's a logical fallacy to even say that 50 ppm fact is, in fact, factual (see: [argument from authority](http://en.wikipedia.org/wiki/Argument_from_authority))
 It's just another piece of brewing dogma.
 
 Not. Good. Enough.
