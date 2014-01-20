@@ -73,7 +73,7 @@ which, ultimately, resulted in a mash temp of 145&deg;F&#8230;you win this round
 ![Water temp](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/145458_distilled_water_mash_mash_water_temp.jpg)
 ![Mash temp](http://tylercipriani.s3.amazonaws.com/distilled_water_mash/145719_distilled_water_mash_dough_in.jpg)
 
-I then checked for conversion every 30 minutes and made observations about what I saw:
+I then checked for conversion every 15 minutes and made observations about what I saw:
 
 1. **15 Minutes**:
 
