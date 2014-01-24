@@ -388,6 +388,10 @@ table {
     border-spacing: 0;
 }
 
+/* ==========================================================================
+   Muh Styles
+   ========================================================================== */
+
 body {
     color: #444;
     background: #FEFEFE;
@@ -452,8 +456,14 @@ a:link { color: #3498DB; }
 a:visited { color: #6a4c96; }
 a:hover { color: #463263; }
 
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+}
+
 main {
-    width: 98%;
+    width: 85%;
     *width: 700px;
     max-width: 700px;
     margin: 0 auto;
@@ -464,6 +474,8 @@ article footer {
 }
 
 @media screen and (max-width: 875px) {
+  body { font-size: 1em; }
+
   img {
     max-width: 100%;
     margin-left: 0;
