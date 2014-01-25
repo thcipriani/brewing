@@ -463,10 +463,13 @@ ol {
 }
 
 main {
-    width: 85%;
-    *width: 700px;
-    max-width: 700px;
-    margin: 0 auto;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.full-width {
+  width: 166.6666%;
+  margin-left: -33.3333%;
 }
 
 article footer {
@@ -476,9 +479,10 @@ article footer {
 @media screen and (max-width: 875px) {
   h1 { font-size: 2.5em; }
   body { font-size: 1.25em; }
+  main { width: 85%; }
 
   img {
-    max-width: 100%;
-    margin-left: 0;
+    width: 117.6834%;
+    margin-left: -8.79%;
   }
 }
