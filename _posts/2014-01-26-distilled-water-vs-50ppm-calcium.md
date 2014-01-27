@@ -19,7 +19,8 @@ this question. Right now, I'm at the point where I'm grasping, trying to underst
 the full scope of the problem.
 
 The two beers I brewed this weekend were designed to understand how to approach
-this question.
+this question: one brewed using only distilled water and one brewed with 50 ppm
+calcium added as CaCl<sub>2</sub>.
 
 Recipe
 ---
