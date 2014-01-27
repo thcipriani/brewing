@@ -171,7 +171,7 @@ like it's finished converting. May be lighter than previous batches.
 
 ### Boil
 
-* Pre-boil Gravity: 1.047
+* Pre-boil Gravity: 1.043
 * pH 5.54
 
 **Notes:**
@@ -197,3 +197,18 @@ Racked using a sanitized mini-autosiphon. Added 30 seconds of oxygen into
 fermenter head-space at the rate of 1 LPM, and shook fermenter 60 seconds.
 
 ![Batch 2 Fermenter](http://tylercipriani.s3.amazonaws.com/distilled_water_brew/Batch2-Fermenter.jpg)
+
+Discussion
+---
+
+It's odd that neither batch's post-boil pH was very much lower than the mash pH.
+I've always read that a beer's pH should drop by ~0.3 pH units during boil.
+When this didn't happen during the first (distilled water) batch's boil, I
+assumed it had something to do with the missing calcium. That was, evidently,
+not the cause.
+
+The only _real_ difference between the two batches is that there was a visibly
+better hot-break in the batch with 50 ppm calcium. That and, of course, the
+difference in mash pH, which is expected and well-documented.
+
+I'll post again post-fermentation.
