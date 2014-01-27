@@ -24,8 +24,8 @@ this question.
 Recipe
 ---
 
-2 Gallons
-Style: 6B-Light Hybrid Beer-Blonde Ale
+2 Gallons<br>
+Style: 6B-Light Hybrid Beer-Blonde Ale<br>
 Target Vols:
 
   * Before Boil  1.75 Gal
@@ -33,6 +33,7 @@ Target Vols:
   * At Pitching: 1.00 Gal
 
 Target Stats:
+
   * Efficiency: 70%
   * Pre-Boil: 1.039
   * Final Gravity: 1.054
@@ -41,6 +42,7 @@ Target Stats:
   * Boil Time: 60 Minutes
 
 Fermentables:
+
   * 2.5 lbs Rahr 2-Row
   * 2 oz Briess Crystal 15
 
