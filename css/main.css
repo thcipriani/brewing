@@ -421,8 +421,9 @@ body {
 }
 
 img {
-  max-width: 125%;
+  width: 125%;
   margin-left: -12.5%;
+  display: block;
 }
 
 h1,
@@ -483,6 +484,6 @@ article footer {
 
   img {
     width: 117.6834%;
-    margin-left: -8.79%;
+    margin-left: -9%;
   }
 }
