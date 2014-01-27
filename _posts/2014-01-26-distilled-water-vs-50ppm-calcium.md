@@ -4,11 +4,11 @@ title: Distilled Water vs 50ppm Calcium Chloride
 ---
 
 This past weekend I brewed twice. Both batches were Jamil's Blonde ale recipe. 
-This was My first try at brewing 1 gallon batches. This weekend were also 
-first two brews back after an extended hiatus that stemmed from some 
+Both batches were 1 gallon batches&mdash;my first try at those. These batches
+were my also my first two brews back after an extended hiatus that stemmed from some 
 combination of moving, changing jobs, and pure laziness.
 
-In the past, When I brewed more regularly, I had a lot of questions about
+In the past, when I brewed more regularly, I had a lot of questions about
 brewing chemistry that were never fully answered. Now that I'm making a
 return to brewing I hope to answer some of these questions.
 
@@ -27,9 +27,11 @@ Recipe
 2 Gallons
 Style: 6B-Light Hybrid Beer-Blonde Ale
 Target Vols:
+
   * Before Boil  1.75 Gal
   * After Boil:  1.25 Gal
   * At Pitching: 1.00 Gal
+
 Target Stats:
   * Efficiency: 70%
   * Pre-Boil: 1.039
@@ -37,12 +39,17 @@ Target Stats:
   * Mash Temp: 152&deg;F
   * Mash Time: 60 Minutes
   * Boil Time: 60 Minutes
+
 Fermentables:
   * 2.5 lbs Rahr 2-Row
   * 2 oz Briess Crystal 15
+
 Hops:
+
   * 7 grams US Fuggles
+
 Yeast:
+
   * 2 grams Safale US-05
 
 Prep Work
