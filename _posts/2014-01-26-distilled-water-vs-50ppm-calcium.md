@@ -5,7 +5,7 @@ title: Distilled Water vs 50ppm Calcium Chloride
 
 This past weekend I brewed twice. Both batches were Jamil's Blonde ale recipe. 
 Both batches were 1 gallon batches&mdash;my first try at those. These batches
-were my also my first two brews back after an extended hiatus that stemmed from some 
+were also my first two brews back after an extended hiatus that stemmed from some 
 combination of moving, changing jobs, and pure laziness.
 
 In the past, when I brewed more regularly, I had a lot of questions about
