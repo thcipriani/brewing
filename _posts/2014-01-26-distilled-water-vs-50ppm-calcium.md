@@ -3,14 +3,14 @@ layout: post
 title: Distilled Water vs 50ppm Calcium Chloride
 ---
 
-This past weekend I brewed twice. Both batches were Jamil's Blonde ale recipe. 
+This past weekend I brewed twice. Both batches were Jamil's Blonde Ale recipe. 
 Both batches were 1 gallon batches&mdash;my first try at those. These batches
 were also my first two brews back after an extended hiatus that stemmed from some 
 combination of moving, changing jobs, and pure laziness.
 
 In the past, when I brewed more regularly, I had a lot of questions about
 brewing chemistry that were never fully answered. Now that I'm making a
-return to brewing I hope to answer some of these questions.
+return to brewing, I hope to answer some of these questions.
 
 The first question: **Does calcium from water make any difference in finished beer?**
 
@@ -58,7 +58,7 @@ Yeast:
 Prep Work
 ---
 
-Since I've been out of the game for so long I had a ton of prep-work to do.
+Since I've been out of the game for so long, I had a ton of prep-work to do.
 
 First step: sanitize my 1 gallon fermenters. I opted for dry-heat sterilization.
 I accidentally bested the CDC's recommendation for dry-heat sterilization since
@@ -76,7 +76,7 @@ solution made from powder buffer-pillows.
 ![pH Perfection](http://tylercipriani.s3.amazonaws.com/distilled_water_brew/calibration.jpg)
 
 I opted out of controlling dissolved oxygen this round. Between adopting a
-new process, brewing 2 batches in a weekend and meticulously photographing
+new process, brewing 2 batches in a weekend, and meticulously photographing
 each step&mdash;I felt I had enough on my plate.
 
 Process
@@ -95,7 +95,7 @@ Process
 Batch #1
 ---
 
-Heated 2 gallons of Distilled water to 155&deg;F and doughed-in. Initial strike
+Heated 2 gallons of distilled water to 155&deg;F and doughed-in. Initial strike
 was 148&deg;F which I rapidly raised via direct fire to 152&deg;F. I did have
 some trouble maintaining 152&deg;F so mash temp ranged from around
 148&deg;F&ndash;154&deg;F.
@@ -149,9 +149,9 @@ fermenter head-space at the rate of 1 LPM, and shook fermenter 60 seconds.
 Batch #2
 ---
 
-Added 0.70 grams CaCl<sub>2</sub>/gallon into 2 gallons of Distilled water.
-Heated water to 155&deg;F and doughed-in. Initial strike was 149&deg;F 
-which I rapidly raised via direct fire to 152&deg;F.
+Added 0.70 grams CaCl<sub>2</sub>/gallon into 2 gallons of distilled water
+to bring total calcium to 50 ppm. Heated water to 155&deg;F and doughed-in. 
+Initial strike was 149&deg;F which I rapidly raised via direct fire to 152&deg;F.
 
 ### Mash
 
@@ -167,6 +167,7 @@ on top of the mash, but that could be my imagination.
 like it's finished converting. May be lighter than previous batches.
 
 **30 minutes into the mash**: iodine test _once again_ shows conversion.
+
 **45 minutes**: mmhmm
 **60 minutes**: yezzur
 
