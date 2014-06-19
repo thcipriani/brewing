@@ -9,3 +9,6 @@ $(GHPAGES):
 	(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
 	cd $(GHPAGES) && git rm -r ./*
 	cp -r _site/* $(GHPAGES)
+
+site: site.hs
+	ghc --make -threaded "$<"
