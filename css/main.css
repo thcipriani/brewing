@@ -483,6 +483,40 @@ article footer {
   color: #b3b3b1;
 }
 
+table {
+  font-size: 0.85em;
+}
+
+.lightBackgroundAlignLeft,
+.darkBackgroundAlignLeft {
+  text-align: left;
+}
+
+.lightBackgroundAlignRight,
+.darkBackgroundAlignRight {
+  text-align: right;
+}
+
+.lightBackgroundAlignCenter,
+.darkBackgroundAlignCenter {
+  text-align: center;
+}
+
+.lightBackgroundAlignLeft,
+.lightBackgroundAlignRight,
+.lightBackgroundAlignCenter {
+  font-weight: 400;
+  color: dimgray;
+}
+
+.darkBackgroundAlignLeft,
+.darkBackgroundAlignRight,
+.darkBackgroundAlignCenter {
+  background: ivory;
+  color: dimgray;
+  font-size: 0.75em;
+}
+
 @media screen and (max-width: 875px) {
   h1 { font-size: 2.5em; }
   body { font-size: 1.25em; }
